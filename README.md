@@ -2,7 +2,7 @@
 
 ## Description
 
-
+https://user-images.githubusercontent.com/68092036/132108029-64c27281-2055-4f48-a1f4-cbc8ebb4d836.mp4
 
 This is my first web application project from scratch. I build my own portfolio page for introducing myself to whoever browsing my portfolio, showing my web developing skills and my contact information to look for a job position in the future.
 
