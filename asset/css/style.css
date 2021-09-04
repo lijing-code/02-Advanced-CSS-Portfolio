@@ -116,7 +116,7 @@ p{
 .background-img {
     height: 300px;
     width: 100%;
-    background-image:url('./image/Backgroun.jpg');
+    background-image:url('../image/Backgroun.jpg');
     background-color:var(--background);
     background-size:contain;
     background-repeat: no-repeat;
