@@ -63,7 +63,7 @@ nav ul li :hover{
 .background-img {
     height: 300px;
     width: 100%;
-    background-image:url(/asset/image/Background.jpg);
+    background-image:url(/asset/image/Background.JPG);
     background-color:var(--background);
     background-size:contain;
     background-repeat: no-repeat;
