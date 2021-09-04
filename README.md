@@ -2,8 +2,6 @@
 
 ## Description
 
-https://user-images.githubusercontent.com/68092036/132108029-64c27281-2055-4f48-a1f4-cbc8ebb4d836.mp4
-
 This is my first web application project from scratch. I build my own portfolio page for introducing myself to whoever browsing my portfolio, showing my web developing skills and my contact information to look for a job position in the future.
 
 I used some advance CSS skills which I learned from Gorgia Tech BootCamp recently, including: media queries, flexbox, responsive design, CSS variables, Typography, Pseudo-classes,and selectors.
@@ -19,36 +17,53 @@ What I've learned:
 * Use :hover{} for styling the cursor, and the elements that the cursor point out through filter changing.
 * Presenting a responsive layout that adapts different device screes use @media screen and (condition){}.
 
-## Table of Contents (Optional)
-If your README is long, add a table of contents to make it easy for users to find what they need.
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 ## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-## Credits
-List your collaborators, if any, with links to their GitHub profiles.
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-If you followed tutorials, include links to those here as well.
-## License
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
----
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-## Badges
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-## Features
-If your project has a lot of features, list them here.
-## How to Contribute
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-## Tests
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
-A GitHub profile with consistently high-quality README files is sure to help you stand out among the crowd of developers putting their work on GitHub, so make sure you give these important files the time and attention they deserve.
 
+* Log in GitHub Account
+* This GitHub URL is : https://github.com/lijing-code/02-Advanced-CSS-Portfolio 
+* The live URL is : https://lijing-code.github.io/02-Advanced-CSS-Portfolio/
+
+## Usage
+
+https://user-images.githubusercontent.com/68092036/132108029-64c27281-2055-4f48-a1f4-cbc8ebb4d836.mp4)
+    
+## Credits
+
+* Request-Response:Professional README Guide: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide 
+
+* How to embed a video into GitHub README.md: https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md
+
+* CSS background-image Property: https://www.w3schools.com/cssref/pr_background-image.asp
+
+* How to position text over an image: https://www.w3schools.com/howto/howto_css_image_text.asp
+
+* HTML-Email Links: https://www.tutorialspoint.com/html/html_email_links.htm
+
+* How to create links to sections on the same page in HTML by Computer Hope:  https://www.computerhope.com/issues/ch000049.htm
+
+* A Complete Guide to Links and Buttons by Chris Coyier: https://css-tricks.com/a-complete-guide-to-links-and-buttons/
+
+* CSS cursor Property: https://www.w3schools.com/cssref/pr_class_cursor.asp
+
+## License
+MIT License
+
+Copyright (c) [2021] [Jing Li]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
