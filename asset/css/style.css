@@ -3,6 +3,7 @@
     --light:rgb(117, 230, 236);
     --gray:rgb(235, 230, 230);
     --black:black;
+    --background:rgb(202, 230, 241);
 }
 
 * {
@@ -62,10 +63,12 @@ nav ul li :hover{
 .background-img {
     height: 250px;
     width: 100%;
-    background-image:url(/asset/image/Background.png);
-    background-color:var(--dark);
-    background-size:cover;
+    background-image:url(/asset/image/Background.jpg);
+    background-color:var(--background);
+    background-size:contain;
+    background-repeat: no-repeat;
     background-position:center;
+
 }
 
 
@@ -164,7 +167,7 @@ a{
     color:var(--black);
 }
 
-@media screen and (max-width:420px){
+@media screen and (max-width:980px){
     header{
         justify-content: center;
         text-align:center;
@@ -193,7 +196,7 @@ a{
     }
     .flex-item img{
         width:100%;
-        height:auto;
+        height:20vw;
     }
 
     #contact-me ul{
