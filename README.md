@@ -9,7 +9,7 @@ I used some advance CSS skills which I learned from Gorgia Tech BootCamp recentl
 What I've learned:
 
 * The importance of scratch: To draw a wireframing before coding directly can help me make more specific contents for each section in HTML.
-* Link the navigation elements to the corresponding section in the same HTML page: use <a href="#id"></a>. 
+* Link the navigation elements to the corresponding section in the same HTML page: use href="#id". 
 * Adjust the background image in the center of the page.
 * Use "display: flex" and "display: block" to adjust the positions of the elements.
 * Connect the email link to outlook: use<a href="mailto: email@example.com></a>
