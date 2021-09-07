@@ -12,7 +12,7 @@ What I've learned:
 * Link the navigation elements to the corresponding section in the same HTML page: use href="#id". 
 * Adjust the background image in the center of the page.
 * Use "display: flex" and "display: block" to adjust the positions of the elements.
-* Connect the email link to outlook: use<a href="mailto: email@example.com></a>
+* Connect the email link to outlook: use href="mailto: email@example.com"
 * Create custom CSS variables using :root{}, and apply them to the root of the page, using "var(--)", making them accessible to all other CSS.
 * Use :hover{} for styling the cursor, and the elements that the cursor point out through filter changing.
 * Presenting a responsive layout that adapts different device screes use @media screen and (condition){}.
